@@ -175,23 +175,6 @@ echo "<tr>";
 	echo "</td>";
 echo "</tr>";
 
-echo "<tr>";
-	echo "<td width='51'>";
-	echo "&nbsp;";
-	echo "</td>";
-
-	echo "<td width='150'>";
-	echo "Kelas/Jurusan";
-	echo "</td>";
-
-	echo "<td width='5'>";
-	echo ":";
-	echo "</td>";
-
-	echo "<td width='200'>";
-	echo "XI/RPL";
-	echo "</td>";
-echo "</tr>";
 echo "</table>";
 echo "<hr>";
 ?>
