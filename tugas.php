@@ -176,5 +176,6 @@ echo "<tr>";
 echo "</tr>";
 
 echo "</table>";
+echo "&nbsp;";
 echo "<hr>";
 ?>
