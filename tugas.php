@@ -3,6 +3,7 @@ echo "<font face='Calibri'>";
 echo "Perkenalkan nama saya Rika An Rokhim, saat ini saya sedang magang di PT.Dhezign Online Solution sebagai siswa PKL. Brikut adalah Biodata Pribadi saya";
 echo "<br>";
 echo "<hr>";
+echo "<br>";
 echo "<center>";
 echo"<h2>";
 echo "<b>";
